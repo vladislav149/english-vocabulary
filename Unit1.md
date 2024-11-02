@@ -34,10 +34,17 @@ Yes I will. Yes, if I have enough time, I will use this wise ideas.
 
 Using this method, find opposites for the words in bold.
 
-1. My room is very **clean**. opp <span style="color:blue">dirty</span>.
-2. It’s a **permanent** job. opp <span style="color:blue">temporary</span>.
-3. He was **kind** to all of his animals. opp <span style="color:blue">angry</span>.
-4. Babies have very soft, **smooth** skin. opp <span style="color:blue">rough</span>.
-5. Where’s the **entrance**? opp <span style="color:blue">exit</span>.
-6. Was the bird **dead**? opp <span style="color:blue">alive</span>.
-7. Did they **accept** the invitation? opp <span style="color:blue">refuse</span>.
+1. My room is very **clean**. opposites
+   dirty
+2. It’s a **permanent** job.
+   temporary
+3. He was **kind** to all of his animals.
+   angry
+4. Babies have very soft, **smooth** skin.
+   rough
+5. Where’s the **entrance**?
+   exit
+6. Was the bird **dead**?
+   alive
+7. Did they **accept** the invitation?
+   refuse
