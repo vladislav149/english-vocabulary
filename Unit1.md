@@ -35,16 +35,65 @@ Yes I will. Yes, if I have enough time, I will use this wise ideas.
 Using this method, find opposites for the words in bold.
 
 1. My room is very **clean**. opposites
+
    dirty
+
 2. It’s a **permanent** job.
+
    temporary
+
 3. He was **kind** to all of his animals.
+
    angry
+
 4. Babies have very soft, **smooth** skin.
+
    rough
+
 5. Where’s the **entrance**?
+
    exit
+
 6. Was the bird **dead**?
+
    alive
+
 7. Did they **accept** the invitation?
+
    refuse
+
+## 1.5
+
+Use a dictionary to find the related parts of speech for the words in bold.
+
+1. She gave me some **advice**. verb
+
+   advise
+
+2. We mustn’t **argue**. noun
+
+   dispute
+
+3. I will have to **revise** this unit. noun
+
+   revision
+
+4. Is there a **choice**? verb
+
+   choose
+
+5. I want to **expand** my vocabulary. noun
+
+   expansion
+
+6. The two boys are very **different**. noun
+
+   difference
+
+7. They need to **communicate** more. noun
+
+   communication
+
+   adjective
+
+   communicative
